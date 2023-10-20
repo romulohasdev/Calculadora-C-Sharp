@@ -6,6 +6,7 @@ class Calculadora
     {
         while (true)
         {
+            // Escolha de Operações
             Console.WriteLine("Escolha a operação:");
             Console.WriteLine("1 - Adição");
             Console.WriteLine("2 - Subtração");
@@ -17,6 +18,7 @@ class Calculadora
 
             if (escolha >= 1 && escolha <= 4)
             {
+                // Escolha dos Números Operados
                 Console.WriteLine("Digite o primeiro número: \n");
                 double num1 = Convert.ToDouble(Console.ReadLine());
 
@@ -25,6 +27,7 @@ class Calculadora
 
                 double resultado = 0;
 
+                // Operações de Adição, Subtração, Multiplicação e Divisão
                 switch (escolha)
                 {
                     case 1:

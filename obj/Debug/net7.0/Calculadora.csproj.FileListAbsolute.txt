@@ -12,3 +12,17 @@ C:\Users\Usuário-\Documents\Programação\C#\Calculadora\obj\Debug\net7.0\refin
 C:\Users\Usuário-\Documents\Programação\C#\Calculadora\obj\Debug\net7.0\Calculadora.pdb
 C:\Users\Usuário-\Documents\Programação\C#\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
 C:\Users\Usuário-\Documents\Programação\C#\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\bin\Debug\net7.0\Calculadora.exe
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\bin\Debug\net7.0\Calculadora.dll
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\Calculadora.dll
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\Usuário-\Source\Repos\romulohasdev\Calculadora-C-Sharp\obj\Debug\net7.0\ref\Calculadora.dll
